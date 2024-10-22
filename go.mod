@@ -1,4 +1,4 @@
-module github.com/energye/systray
+module github.com/iamspark1e/systray
 
 go 1.13
 
